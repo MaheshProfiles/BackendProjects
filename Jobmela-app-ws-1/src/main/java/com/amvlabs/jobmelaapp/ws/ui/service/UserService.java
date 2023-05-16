@@ -1,6 +1,6 @@
 package com.amvlabs.jobmelaapp.ws.ui.service;
 
-import com.amvlabs.jobmelaapp.ws.ui.service.dto.UserDto;
+import com.amvlabs.jobmelaapp.ws.ui.shared.dto.UserDto;
 
 public interface UserService {
 

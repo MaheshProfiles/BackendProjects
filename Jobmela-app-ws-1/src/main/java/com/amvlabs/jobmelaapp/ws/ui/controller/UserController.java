@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.amvlabs.jobmelaapp.ws.ui.model.request.UserDetailsRequestModel;
 import com.amvlabs.jobmelaapp.ws.ui.model.response.UserRest;
 import com.amvlabs.jobmelaapp.ws.ui.service.UserService;
-import com.amvlabs.jobmelaapp.ws.ui.service.dto.UserDto;
+import com.amvlabs.jobmelaapp.ws.ui.shared.dto.UserDto;
 
 
 

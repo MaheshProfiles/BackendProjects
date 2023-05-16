@@ -1,4 +1,4 @@
-package com.amvlabs.jobmelaapp.ws.ui.service.dto;
+package com.amvlabs.jobmelaapp.ws.ui.shared.dto;
 
 import java.io.Serializable;
 
